@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">PracticeApp</string>
+    <string name="distance_from_sun">Distance from Sun</string>
+    <string name="planet_name">Planet Name</string>
+    <string name="diameter">Diameter</string>
+    <string name="surface_gravity">Surface Gravity</string>
+    <string name="username">UserName</string>
+    <string name="name">Name</string>
+    <string name="id">ID</string>
+    <string name="email">Email</string>
+</resources>
